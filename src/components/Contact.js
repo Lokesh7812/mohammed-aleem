@@ -52,7 +52,7 @@ const contactInfo = [
 			</svg>
 		),
 		label: 'Location',
-		value: 'Madurantakam, Tamil Nadu',
+		value: 'Nala Baham Building, flat 502 Ghala Muscat, Oman',
 		href: null,
 	},
 	{
@@ -88,8 +88,8 @@ const contactInfo = [
 			</svg>
 		),
 		label: 'Instagram',
-		value: '@mohdaleem_offl',
-		href: 'https://www.instagram.com/mohdaleem_offl',
+		value: '@aleeminoman',
+		href: 'https://www.instagram.com/aleeminoman?igsh=MWR0ZjU3Y2t5dW04MA==',
 	},
 ];
 

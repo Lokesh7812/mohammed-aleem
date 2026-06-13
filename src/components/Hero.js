@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Hero.css';
 
-const PROFILE_IMG = "/profile.png"; // moved from base64 to public/profile.png
+const PROFILE_IMG = "/profile.jpg"; // moved from base64 to public/profile.jpg
 
 export default function Hero() {
   const [loaded, setLoaded] = useState(false);
@@ -31,7 +31,7 @@ export default function Hero() {
             </p>
             <div className="hero-stats">
               <div className="stat">
-                <span className="stat-num">5+</span>
+                <span className="stat-num">6+</span>
                 <span className="stat-label">Years Experience</span>
               </div>
               <div className="stat-sep"></div>
@@ -58,7 +58,7 @@ export default function Hero() {
               <a href="https://www.linkedin.com/in/mohammed-aleem-mba-a9111a218/" target="_blank" rel="noreferrer" className="social-icon" aria-label="LinkedIn">
                 <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
               </a>
-              <a href="https://www.instagram.com/mohdaleem_offl" target="_blank" rel="noreferrer" className="social-icon" aria-label="Instagram">
+              <a href="https://www.instagram.com/aleeminoman?igsh=MWR0ZjU3Y2t5dW04MA==" target="_blank" rel="noreferrer" className="social-icon" aria-label="Instagram">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
               </a>
               <a href="mailto:mdaleem154@gmail.com" className="social-icon" aria-label="Email">
@@ -72,7 +72,7 @@ export default function Hero() {
             <img src={PROFILE_IMG} alt="Mohammed Aleem" className="hero-img" />
             <div className="img-badge">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="18" height="18"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.6 3.41 2 2 0 0 1 3.57 1h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.96a16 16 0 0 0 6.13 6.13l.87-.87a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-              <span>Sales Expert</span>
+              <span>Sales & Logistics Management</span>
             </div>
           </div>
         </div>

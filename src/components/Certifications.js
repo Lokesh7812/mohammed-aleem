@@ -32,6 +32,12 @@ const references = [
     company: '',
     icon: 'H',
   },
+  {
+    name: 'Akshay Rewaskar',
+    title: 'Sales Manager',
+    company: 'Global Enterprises, Muscat Oman',
+    icon: 'A',
+  },
 ];
 
 export default function Certifications() {
