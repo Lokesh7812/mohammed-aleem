@@ -24,7 +24,7 @@ export default function Hero() {
             <h1 className="hero-name">
               Mohammed<br /><em>Aleem</em>
             </h1>
-            <p className="hero-role">Sr Officer — Sales & Customer Support and Commercial Executive - Sales & Logistics</p>
+            <p className="hero-role">Commercial Executive - Sales & Logistics</p>
             <div className="hero-divider"></div>
             <p className="hero-tagline">
               Driving growth through strategic sales management, customer excellence, and cross-functional collaboration across global markets.
