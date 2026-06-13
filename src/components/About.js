@@ -33,7 +33,7 @@ export default function About() {
             <h2 className="section-title">About Me</h2>
             <div className="divider"></div>
             <p className="about-text">
-              A results-driven Sales & Customer Support professional with over 6 years of experience managing end-to-end order processing, key account relationships, and cross-functional coordination across automotive, electronics, and commercial sectors.
+              A results-driven Sales & Customer Support and Logistics professional with over 6 years of experience managing end-to-end order processing, key account relationships, and cross-functional coordination across automotive, electronics, and commercial sectors.
             </p>
             <p className="about-text" style={{ marginTop: 16 }}>
               I thrive in professional environments that encourage continuous learning and innovation. My goal is to leverage my expertise in SAP, logistics management, and customer relations to drive growth and operational excellence.
